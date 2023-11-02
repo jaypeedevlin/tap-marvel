@@ -11,8 +11,6 @@ Install from GitHub:
 pipx install git+https://github.com/japeedevlin/tap-marvel.git@main
 ```
 
--->
-
 ## Configuration
 
 ### Accepted Config Options
